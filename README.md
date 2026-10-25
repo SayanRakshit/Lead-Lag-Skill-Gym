@@ -25,7 +25,7 @@ The framework combines **9 statistical experts, Mamba, Mixture of Experts (MoE),
 
 Models and results are saved to:
 
-`MyDrive/Aug26/Gym/skill_gym_full/`
+`MyDrive/Gym/skill_gym_full/`
 
 ## Preliminary Results
 
